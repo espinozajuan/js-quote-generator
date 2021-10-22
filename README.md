@@ -1,5 +1,5 @@
-# Javascript Quote Generator
+# Javascript Quote Generator 🌟
 
-- Simple javascript quote generator, using a quotes API.
+- Simple javascript quote generator, using https://type.fit/api/quotes API.
 
 ## Live Version [https://google.com/]
